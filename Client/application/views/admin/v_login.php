@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Tirta Guwo Indah Login | Log in</title>
+  <title>Judul | Log in</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <link href="<?php echo base_url('assets/img/a2.png');?>" rel="icon">
@@ -57,7 +57,7 @@
     
     <!-- /.social-auth-links -->
     <hr/>
-    <p><center>Copyright <?php echo '2020'?> by Roni Setiyanto <br/> All Right Reserved</center></p>
+    <p><center>Copyright <?php echo '2020'?> by Gazette <br/> All Right Reserved</center></p>
   </div>
   <!-- /.login-box-body -->
 </div>
